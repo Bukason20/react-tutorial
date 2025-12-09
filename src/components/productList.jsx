@@ -11,6 +11,7 @@ function ProductList() {
             img={product.img}
             name={product.name}
             desc={product.description}
+            id={product.id}
           />
         ))}
       </div>

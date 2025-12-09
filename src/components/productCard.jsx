@@ -1,6 +1,7 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
-function ProductCard({ img, name, desc }) {
+function ProductCard({ img, name, desc, id }) {
   return (
     <div style={{ backgroundColor: "lightblue" }}>
       <img
@@ -10,6 +11,7 @@ function ProductCard({ img, name, desc }) {
       />
       <h1>{name}</h1>
       <p>{desc}</p>
+      <Link to={`/product-details/${id}`}>See More</Link>
     </div>
   );
 }
