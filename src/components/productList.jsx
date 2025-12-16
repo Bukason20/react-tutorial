@@ -12,6 +12,7 @@ function ProductList() {
             name={product.name}
             desc={product.description}
             id={product.id}
+            stock={product.inStock}
           />
         ))}
       </div>
