@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Pie",
+      "description": "This is an italian pie made in Nigeria",
+      "inStock": true
+    },
+    {
+      "id": 2,
+      "name": "Cake",
+      "description": "This is an american cake made in Nigeria",
+      "inStock": false
+    },
+    {
+      "id": 3,
+      "name": "Sauced Meal",
+      "description": "This is a chinese sauced meal made in Nigeria",
+      "inStock": true
+    }
+  ]
+}
