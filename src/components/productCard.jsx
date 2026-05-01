@@ -42,3 +42,10 @@ function ProductCard({ img, name, desc, id, stock }) {
 }
 
 export default ProductCard;
+
+// const props = { img, descr, name, stock };
+// props.img;
+
+// const { img, descr, name, stock } = props;
+
+// img;

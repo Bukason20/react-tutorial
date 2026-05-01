@@ -1,0 +1,25 @@
+{
+  "posts": [
+    {
+      "name": "Ebuka",
+      "desc": "this is the server post",
+      "id": "10c0"
+    },
+    {
+      "id": "759e",
+      "name": "Johnny",
+      "desc": ""
+    },
+    {
+      "id": "f28e",
+      "name": "Creator",
+      "desc": "This is a new post created to test the server"
+    }
+  ],
+  "recipes": [
+    {
+      "name": "Beans",
+      "id": "ecbb"
+    }
+  ]
+}

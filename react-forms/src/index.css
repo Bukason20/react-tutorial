@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.post-card {
+  @apply p-5 bg-gray-300 shadow-md w-50 rounded-2xl;
+}
